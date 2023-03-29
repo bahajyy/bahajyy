@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a 3. grade Software Engineering Student<br>💬 Ask me about Java,OOP,SQL<br>
+🔭 I’m a 3. grade Software Engineering Student<br>💬 Ask me about Java,OOP,SQL,C,C++<br>
 
 
 ## 🌐 Socials:
