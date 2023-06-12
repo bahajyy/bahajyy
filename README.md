@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development<br>💬 Ask me about Java,OOP,Data Structures,Algorithms<br>
+🔭 I’m currently working on web development<br><br>
 
 
 ## 🌐 Socials:
