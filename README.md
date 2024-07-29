@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baha Jiyan Yılmaz</h1>
 <h3 align="center">A passionate backend developer from Izmır,Turkey</h3>
 
-- 🔭 I’m currently working at **Allianz**
-
 - 📫 How to reach me **bahajyilmaz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
