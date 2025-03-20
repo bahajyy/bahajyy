@@ -1,5 +1,11 @@
+I specialize in backend development, focusing on building scalable, efficient, and high-performance systems. Here are the key technologies I use:
 
- How to reach me **bahajyilmaz@gmail.com**
+🔹 Programming Languages: Java, Python, C#, 
+🔹 Backend Frameworks: Spring Boot, FastAPI, .NET
+🔹 Databases: MongoDB, PostgreSQL, MySQL, NoSQL
+
+Always exploring new technologies and improving my skills! 🚀 Check out my projects below. 👇
+How to reach me **bahajyilmaz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
